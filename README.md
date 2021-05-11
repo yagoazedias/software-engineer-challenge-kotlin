@@ -31,4 +31,4 @@ Faça um ***Fork*** deste repositório e abra um ***Pull Request***, **com seu n
 - Criar uma solução de autenticação entre o frontend e o backend;
 - Ter um desempenho elevado num conjunto de dados muito grande;
 - Criar testes automatizados;
-- Seja Cloud native;
+- Seja Cloud native
