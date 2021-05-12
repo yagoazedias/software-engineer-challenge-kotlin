@@ -43,7 +43,7 @@ Obtém todos os usuários em um formato `.json` que combinam com o termo pesquis
 
 | Parâmetro  | Descrição                   |
 |------------|-----------------------------|
-| query      | Termo a ser procurado.                                                                                           |
+| query      | Termo procurado.                                                                                           |
 | from       | Posição da página. 0 é a primeira, 1 é a segunda e assim por diante.  Caso não informado, o valor default será 0.|
 | size       | Quantidade de itens a ser retornado.  Caso não informado, o valor default será 15.                               |
 
