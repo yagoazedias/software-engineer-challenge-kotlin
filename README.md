@@ -108,5 +108,5 @@ Fique livre para sugerir outras abordagens ;)
 * Proposta de melhoria da solução;
 * Autorização ao invocar a API;
 * Teste de integração;
-* Usar algum banco de dados que facilite a relevância da pesquisa;
+* Usar alguma solução open-source que facilite a relevância da pesquisa;
 * Seja Cloud native.
