@@ -77,8 +77,8 @@ Retorno:
 
 ### Escala estimada
 
-* ~2M RPM
-* ~10M de itens pesquisáveis
+* 100 mil requests por minuto
+* ~10 milhões de itens pesquisáveis 
 
 ### Facilidade de uso
 
