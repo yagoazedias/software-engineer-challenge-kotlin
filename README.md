@@ -15,7 +15,7 @@ Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de 
 
 ## Descrição
 
-O desafio é criar uma API REST que busca usuários pelo nome e username a partir de uma palavra chave. Faça o download do arquivo [users.csv.gz](https://s3.amazonaws.com/careers-picpay/users.csv.gz) que contém o banco de dados que deve ser usado na busca. Ele contém os IDs, nomes e usernames dos usuários.
+O desafio é criar uma API REST que busca usuários pelo nome e username a partir de uma palavra chave. Utilize o [database.csv](database.csv) que contém o banco de dados que deve ser usado na busca. Ele contém os IDs, nomes e usernames dos usuários.
 
 ###### Exemplo
 | ID                                   | Nome              | Username             |
