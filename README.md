@@ -8,7 +8,7 @@ Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de 
 
 * Crie um repositório na sua conta do **GitHub** sem citar nada relacionado ao PicPay;
 * Faça seus commits no seu repositório;
-* Solicite ao **Recruter** que está acompanhando o seu processo o username do Github do avaliador, assim você poderá dar permissão de leitura no código; 
+* Solicite ao **Recruiter** que está acompanhando o seu processo o username do Github do avaliador, assim você poderá dar permissão de leitura no código; 
 * Fique à vontade para perguntar qualquer dúvida aos recrutadores.
 * Fique tranquilo, respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
 
