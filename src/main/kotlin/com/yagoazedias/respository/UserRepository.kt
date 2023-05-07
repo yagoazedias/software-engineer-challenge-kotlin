@@ -21,10 +21,26 @@ internal object Users : UUIDTable() {
     }
 }
 
+fun String.print(printer: (String) -> String) {
+   printer("$$this")
+}
+
+
 class UserRepository {
     init {
         transaction {
             SchemaUtils.create(Users)
+        }
+    }
+
+    fun getAll(from: Int, size: Int): List<User?> {
+        return transaction {
+            Users.selectAll()
+                .limit(size, from.toLong())
+                .orderBy(Users.priority, order = SortOrder.ASC)
+                .map {
+                Users.toDomain(it)
+            }
         }
     }
 

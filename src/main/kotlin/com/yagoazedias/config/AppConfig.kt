@@ -20,7 +20,7 @@ fun readCsv(inputStream: InputStream, priorityMap: Map<String, Int>): List<User>
 
 fun getPriorityMapByInputStreams(inputStreamPriorityOne: FileInputStream, inputStreamPriorityTwo: FileInputStream): Map<String, Int> {
     val mutableMap: MutableMap<String, Int> = mutableMapOf()
-    inputStreamPriorityOne.bufferedReader().forEachLine { mutableMap[it] = 1 }
+    inputStreamPriorityOne.bufferedReader().forEachLine { mutableMap[it] =  1 }
     inputStreamPriorityTwo.bufferedReader().forEachLine { mutableMap[it] = 2 }
     return mutableMap
 }
